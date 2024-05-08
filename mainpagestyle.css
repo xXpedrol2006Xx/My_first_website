@@ -1,0 +1,59 @@
+body{
+     background-color: grey;
+}
+
+#H1{
+     text-align: center;
+     font-size: 50px;
+}
+
+.boraderBox{
+     font-size: 2rem;
+     color: snow;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+
+     width: 350px;
+     height: 400px;
+     padding: 20px;
+     background: linear-gradient(to bottom, rgb(88, 117, 243), rgb(2, 20, 87));
+     border: 10px solid black;
+     border-radius: 10px;
+     margin: auto;
+     margin-top: 100px;
+     box-shadow: 12px white ;
+
+}
+
+#loginBox{
+     width: 300px;
+     height: 320px;
+     margin: auto;
+     margin-top: 30px;
+     background: linear-gradient(to bottom, rgba(101, 201, 240, 0.959), rgba(128, 128, 245, 0.479) );
+     border: 10px solid black;
+     
+}
+
+.button1{
+     background-color: yellow;
+     padding: 8px;
+     font-size: 25px;
+     font-weight: bold;
+     margin-top: 20px;
+     margin-right: 100px;
+     margin-bottom: 0px;
+     margin-left: 100px;
+     box-shadow: 20px inset rgb(65, 62, 62) ;
+
+}
+
+#Lab1{
+     color: black;
+     font-size: 45px;
+     font-weight: bold;
+     border-radius: 10px;
+     background: linear-gradient(to right, rgba(0, 0, 255, 0.521), rgba(128, 0, 128, 0.548));
+     
+}
+
